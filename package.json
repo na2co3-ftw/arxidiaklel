@@ -1,0 +1,17 @@
+{
+  "name": "arxidiaklel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "devDependencies": {
+    "csv": "^1.1.1",
+    "less": "^2.7.2",
+    "node-zip": "^1.1.1"
+  },
+  "scripts": {
+    "less": "lessc www/style.less > www/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
